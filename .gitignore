@@ -1,0 +1,13 @@
+*.swp
+*.log
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+vcip.pdf
+*.aux
+*.out
+wacv.pdf
+*.brf
+*.nfs*
+source/__pycache__/
